@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+// ${1:LEVEL 4}
+]]></content>
+
+<tabTrigger>/4</tabTrigger>
+<scope>source.scss</scope>
+</snippet>

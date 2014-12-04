@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+// *************************************
+//
+//   ${1:LEVEL 1}
+//   -> ${2:DESCRIPTION}
+//
+// *************************************
+]]></content>
+
+<tabTrigger>/1</tabTrigger>
+<scope>source.scss</scope>
+</snippet>
