@@ -1,7 +1,7 @@
 
 ## GCSS Sublime Snippets
 
-###Comment Snippets
+### SCSS & LESS Comment Snippets
 
 #####Primary : `/1`
 ```

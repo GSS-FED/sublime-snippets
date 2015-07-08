@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+// -------------------------------------
+//   ${1:LEVEL 2}
+// -------------------------------------
+]]></content>
+
+<tabTrigger>/2</tabTrigger>
+<scope>source.less</scope>
+</snippet>

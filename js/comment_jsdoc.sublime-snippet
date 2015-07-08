@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+/** 
+* @name ${1:NAME}
+* @desc ${2:DESCRIPTION}
+* @param ${3:PARAMS}
+* @returns ${4:RETURN}
+*/ 
+]]></content>
+
+<tabTrigger>//1</tabTrigger>
+<scope>source.js</scope>
+</snippet>
