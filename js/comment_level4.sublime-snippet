@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-/*** ${1:COMMENT} ***/ 
+////////////
 ]]></content>
 
-<tabTrigger>//inline</tabTrigger>
+<tabTrigger>//4</tabTrigger>
 <scope>source.js</scope>
 </snippet>

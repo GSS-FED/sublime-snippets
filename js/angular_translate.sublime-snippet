@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\$translate.instant('${1:NAME}')]]></content>
+  <tabTrigger>translate</tabTrigger>
+    <description>Angular-translate</description>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+// *************************************
+//
+//   ${1:LEVEL 1}
+//   - @name ${2:NAME}
+//   - @desc ${3:DESCRIPTION}
+//   - @param ${4:PARAMS}
+//   - @returns ${5:RETURN}
+//
+// *************************************
+]]></content>
+
+<tabTrigger>//1</tabTrigger>
+<scope>source.js</scope>
+</snippet>
