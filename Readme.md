@@ -43,7 +43,7 @@ scss/
 
 ### JavaScripts Comment Snippets
 
-tabTrigger: `//1`
+- tabTrigger: `//1`
 
 ```
 // *************************************
@@ -57,7 +57,7 @@ tabTrigger: `//1`
 // *************************************
 ```
 
-tabTrigger: `//2`
+- tabTrigger: `//2`
 
 ```
 // -------------------------------------
@@ -65,25 +65,25 @@ tabTrigger: `//2`
 // -------------------------------------
 ```
 
-tabTrigger: `//3`
+- tabTrigger: `//3`
 
 ```
 // ----- LEVEL 3 ----- //
 ```
 
-tabTrigger: `//4`
+- tabTrigger: `//4`
 
 ```
 ////////////
 ```
 
-tabTrigger: `//inline`
+- tabTrigger: `//inline`
 
 ```
 /*** COMMENT ***/ 
 ```
 
-tabTrigger: `//doc`
+- tabTrigger: `//doc`
 
 ```
 /** 
@@ -97,7 +97,7 @@ tabTrigger: `//doc`
 
 ### CSS / SCSS / LESS Comment Snippets
 
-tabTrigger: `/1`
+- tabTrigger: `/1`
 
 ```
 // *************************************
@@ -108,7 +108,7 @@ tabTrigger: `/1`
 // *************************************
 ```
 
-tabTrigger: `/2`
+- tabTrigger: `/2`
 
 ```
 // -------------------------------------
@@ -116,32 +116,32 @@ tabTrigger: `/2`
 // -------------------------------------
 ```
 
-tabTrigger: `/3`
+- tabTrigger: `/3`
 
 ```
 // ----- LEVEL 3 ----- //
 ```
 
-tabTrigger: `/4`
+- tabTrigger: `/4`
 
 ```
 // LEVEL 4
 ```
 
 
-### SCSS UI Kit Snippets
+### UI Kit Snippets
 
-tabTrigger: `.prefix`
+- tabTrigger: `pf`
 
-```
-.#{$prefix}-CLASS
-```
+scss: ```.#{$prefix}-CLASS```
 
-tabTrigger: `.state`
+html: ```{{styleguide.prefix}}-CLASS```
 
-```
-.#{$state}-STATE
-```
+- tabTrigger: `st`
+
+scss: ```.#{$state}-STATE```
+
+html: ```{{styleguide.state}}-STATE```
 
 
 ## Installation

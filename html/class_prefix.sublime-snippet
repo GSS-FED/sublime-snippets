@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-.#{\$prefix}-${1:CLASS}
+{{styleguide.prefix}}-${1:CLASS}
 ]]></content>
 
 <tabTrigger>pf</tabTrigger>
-<scope>source.scss</scope>
+<scope>text.html</scope>
 </snippet>
