@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-{{styleguide.state}}-${1:STATE}
+{{styleguide.state}}--${1:STATE}
 ]]></content>
 
 <tabTrigger>st</tabTrigger>

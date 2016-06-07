@@ -139,9 +139,9 @@ html: ```{{styleguide.prefix}}-CLASS```
 
 - tabTrigger: `st`
 
-scss: ```.#{$state}-STATE```
+scss: ```.#{$state}--STATE```
 
-html: ```{{styleguide.state}}-STATE```
+html: ```{{styleguide.state}}--STATE```
 
 
 ## Installation
