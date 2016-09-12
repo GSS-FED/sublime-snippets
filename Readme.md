@@ -131,15 +131,15 @@ scss/
 
 ### UI Kit Snippets
 
-- tabTrigger: `.pf`
+- tabTrigger: `pf`
 
-scss: ```.#{$prefix}-CLASS```
+scss: ```#{$prefix}-CLASS```
 
 html: ```{{styleguide.prefix}}-CLASS```
 
-- tabTrigger: `.st`
+- tabTrigger: `st`
 
-scss: ```.#{$state}--STATE```
+scss: ```#{$state}--STATE```
 
 html: ```{{styleguide.state}}--STATE```
 
