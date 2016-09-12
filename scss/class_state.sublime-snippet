@@ -3,6 +3,6 @@
 .#{\$state}--${1:STATE}
 ]]></content>
 
-<tabTrigger>st</tabTrigger>
+<tabTrigger>.st</tabTrigger>
 <scope>source.scss</scope>
 </snippet>

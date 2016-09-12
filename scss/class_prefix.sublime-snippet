@@ -3,6 +3,6 @@
 .#{\$prefix}-${1:CLASS}
 ]]></content>
 
-<tabTrigger>pf</tabTrigger>
+<tabTrigger>.pf</tabTrigger>
 <scope>source.scss</scope>
 </snippet>
